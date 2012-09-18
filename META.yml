@@ -20,7 +20,8 @@ no_index:
 requires:
   Config::Any: 0
   DBI: 0
+  File::HomeDir: 0
   perl: 5.005
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.000001
+version: 0.000002

@@ -1,3 +1,4 @@
+Changes
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
@@ -15,6 +16,7 @@ t/01_pass_through.t
 t/02_load_credentials.t
 t/03_config_paths.t
 t/04_dbi_credentials.t
+t/05_integration_config_files.t
 t/05_integration_connect.t
 t/05_integration_connect_info.t
 t/05_integration_connect_info_passthrough.t
